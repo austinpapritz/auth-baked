@@ -4,10 +4,6 @@
 
 [Link to Demo](https://alchemy-web-why-i-autha.netlify.app/)
 
-## Getting Started
-
-Use the [this template](https://github.com/alchemycodelab/half-baked-web-01-why-i-autha) to get started.
-
 ### Learning Objectives
 
 -   Register new users on Supabase using the Javascript library
@@ -46,3 +42,5 @@ The following is required for your assignment to be graded:
 | Users can logout from the other page                                           | 2      |
 | Authenticated users are redirected to the other page from the home page        | 1      |
 | Unauthenticated users are redirected back to the home page from the other page | 1      |
+
+easter egg
