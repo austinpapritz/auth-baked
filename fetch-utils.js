@@ -16,11 +16,11 @@ export async function signupUser(email, password) {
     } else {
         console.error(response.error);
     }
+    return response.user;
 }
 
 export async function signInUser(email, password) {
     const response = await client.auth.signIn({ email, password });
-    console.log(response.user, 'user');
     return response.user;
 }
 
