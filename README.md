@@ -42,5 +42,3 @@ The following is required for your assignment to be graded:
 | Users can logout from the other page                                           | 2      |
 | Authenticated users are redirected to the other page from the home page        | 1      |
 | Unauthenticated users are redirected back to the home page from the other page | 1      |
-
-easter egg
