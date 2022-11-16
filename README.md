@@ -4,10 +4,6 @@
 
 [Link to Demo](https://alchemy-web-why-i-autha.netlify.app/)
 
-## Getting Started
-
-Use the [this template](https://github.com/alchemycodelab/half-baked-web-01-why-i-autha) to get started.
-
 ### Learning Objectives
 
 -   Register new users on Supabase using the Javascript library
